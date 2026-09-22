@@ -1,27 +1,104 @@
-<img src="banner.png"/>
-<h1 align="center">Hi 👋, I'm Prerit Nagpal</h1>
-<h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=preritnagpal&label=Profile%20views&color=0e75b6&style=flat" alt="preritnagpal" /> </p>
+<img src="./banner.png" width="100%" />
 
-- 🔭 I’m currently working on **Real-Time Chat Application**
+# 👋 Hi, I'm Prerit Nagpal
 
-- 🌱 I’m currently learning **React js**
+### Frontend Developer · React · Next.js · TypeScript
 
-- 💬 Ask me about **Frontend**
-
-- 📫 How to reach me **preritnagpal1234@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
+  I build modern, responsive and user-focused web applications.
+  <br />
+  Currently focused on strengthening my frontend skills and building real-world projects.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:preritnagpal1234@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=preritnagpal&show_icons=true&locale=en&layout=compact" alt="preritnagpal" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=preritnagpal&show_icons=true&locale=en" alt="preritnagpal" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=preritnagpal&" alt="preritnagpal" /></p>
+## 👨‍💻 About Me
+
+- 🎓 MCA graduate with a strong interest in web development
+- 💻 Focused on **Frontend Development**
+- ⚛️ Working with **React.js, Next.js and TypeScript**
+- 🎨 Building responsive interfaces with **Tailwind CSS**
+- 🧠 Continuously improving JavaScript and TypeScript fundamentals
+- 🚀 Interested in building products that solve real-world problems
+- 📍 India
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Personal Portfolio
+
+A modern personal portfolio built to showcase my skills, projects, experience and certifications.
+
+**Tech:** Next.js · TypeScript · Tailwind CSS
+
+---
+
+### 🛰️ Corevia — Satellite-Based Industry Monitoring
+
+A web-based platform focused on monitoring industrial environmental data using satellite-based information and data visualization.
+
+**Tech:** Next.js · React · TypeScript · Tailwind CSS
+
+---
+
+### 🔐 Custom Authentication System
+
+A full-stack authentication system with secure login, signup, OTP-based password recovery and admin controls.
+
+**Tech:** Next.js · TypeScript · MongoDB · Mongoose · Node.js
+
+---
+
+## 📚 Currently Learning
+
+```text
+JavaScript
+    ↓
+TypeScript
+    ↓
+React.js
+    ↓
+Next.js
+    ↓
+Real-world Projects
+    ↓
+Backend & APIs
