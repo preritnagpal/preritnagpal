@@ -4,248 +4,119 @@
 
 <br/>
 
-# 👋 Hey, I'm **Prerit Nagpal**
+# Hey, I'm **Prerit Nagpal** 👋
 
-### ⚡ Frontend Developer · React · Next.js · TypeScript
+### Frontend Developer who loves turning ideas into interfaces.
 
-<p>
-  I turn ideas into <b>clean, responsive and interactive web experiences.</b>
-  <br/>
-  Currently sharpening my frontend skills, building real-world products,
-  <br/>
-  and turning <b>☕ ideas into 💻 interfaces.</b>
-</p>
+<br/>
+
+**React · Next.js · TypeScript · JavaScript**
 
 <br/>
 
 <a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 &nbsp;
 <a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:preritnagpal1234@gmail.com">
-  <img src="https://img.shields.io/badge/✉️_Email-EA4335?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
 
-## 🧑‍💻 Who Am I?
+## ✦ A little about me
 
-```ts
-const prerit = {
-  role: "Frontend Developer",
-  education: "MCA",
-  location: "India 🇮🇳",
+I'm a **Frontend Developer** focused on building modern, responsive and user-friendly web applications.
 
-  mainStack: [
-    "React",
-    "Next.js",
-    "TypeScript",
-    "JavaScript"
-  ],
+I enjoy taking an idea from **"what if..." → "let's build it" → "it's live."**
 
-  styling: [
-    "Tailwind CSS"
-  ],
+Currently, I'm going deeper into **React, Next.js, TypeScript and JavaScript**, while building projects that go beyond tutorials.
 
-  backend: [
-    "Node.js",
-    "Express.js",
-    "MongoDB"
-  ],
-
-  mindset: "Build → Break → Learn → Improve → Repeat 🚀",
-
-  currentlyBuilding: "Real-world web applications"
-};
+```text
+Designing interfaces      → 🎨
+Writing clean code        → 💻
+Learning what's next      → 🧠
+Building something real   → 🚀
 ```
 
-> **I don't just want to write code — I want to build things people actually enjoy using.**
-
 ---
 
-## ⚡ What I Do
+## ⚡ My Stack
 
-<table>
-<tr>
-<td width="50%">
+<p align="left">
 
-### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode,vercel" />
 
-* Responsive & modern UI
-* React applications
-* Next.js applications
-* Component-based architecture
-* TypeScript development
-* Tailwind CSS
-* Animations & interactions
-
-</td>
-
-<td width="50%">
-
-### ⚙️ Full-Stack
-
-* REST APIs
-* Node.js & Express
-* MongoDB & Mongoose
-* Authentication systems
-* OTP & email workflows
-* Database-driven applications
-* Deployment with Vercel
-
-</td>
-</tr>
-</table>
-
----
-
-# 🛠️ My Tech Arsenal
-
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
-</p>
-
-### ⚛️ Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
-
-### 🗄️ Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### 🔧 Tools & Workflow
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
 </p>
 
 ---
 
-# 🚀 Things I've Built
+## 🚀 Things I've Built
 
-### 🌐 **Personal Portfolio**
+### 🛰️ Corevia
 
-> A modern developer portfolio designed to showcase my work, skills, experience and certifications.
+**Satellite-Based Industry Monitoring**
 
-**Stack:** `Next.js` `TypeScript` `Tailwind CSS`
+A web platform designed around industrial environmental monitoring, satellite-based data and meaningful visual insights.
 
----
-
-### 🛰️ **Corevia — Satellite-Based Industry Monitoring**
-
-> A web platform focused on monitoring industrial environmental data using satellite-based information, visualization and intelligent insights.
-
-**Stack:** `Next.js` `React` `TypeScript` `Tailwind CSS`
+`Next.js` · `React` · `TypeScript` · `Tailwind CSS`
 
 ---
 
-### 🔐 **Custom Authentication System**
+### 🔐 Custom Authentication System
 
-> A complete authentication system featuring secure login/signup, OTP-based password recovery and administrative controls.
+A full-stack authentication system with secure authentication flows, OTP-based password recovery and administrative controls.
 
-**Stack:** `Next.js` `TypeScript` `Node.js` `MongoDB` `Mongoose`
+`Next.js` · `TypeScript` · `Node.js` · `MongoDB` · `Mongoose`
 
 ---
 
-# 🧠 Currently Leveling Up
+### 🌐 Personal Portfolio
+
+My personal space on the web — built to showcase my projects, skills, experience and the things I'm constantly learning.
+
+`Next.js` · `TypeScript` · `Tailwind CSS`
+
+---
+
+## 🧠 What I'm Exploring
 
 ```text
 JavaScript
-    │
-    ├── Deep Fundamentals
-    │
-    ▼
+   ↓
 TypeScript
-    │
-    ▼
-React.js
-    │
-    ▼
+   ↓
+React
+   ↓
 Next.js
-    │
-    ▼
-Real-World Projects
-    │
-    ▼
-Backend & APIs
-    │
-    ▼
-🚀 Production-Ready Applications
-```
-
----
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" height="170"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" />
-
-</div>
-
----
-
-# 🎯 2026 → Build. Learn. Ship.
-
-```text
-✓ Master JavaScript & TypeScript
-✓ Build deeper React knowledge
-✓ Become highly comfortable with Next.js
-✓ Build production-quality projects
-✓ Improve problem-solving & DSA
-✓ Land my first frontend developer role
+   ↓
+Real-world applications
+   ↓
+Production-ready development
 ```
 
 ---
 
 <div align="center">
 
-### 💬 Let's Build Something Cool
+### ✦ Build things. Break things. Learn things.
 
-**Code. Create. Learn. Repeat.**
+**And then build them better.**
 
 <br/>
 
-<a href="YOUR_PORTFOLIO_URL">
-  🌐 Portfolio
-</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="YOUR_LINKEDIN_URL">
-  💼 LinkedIn
-</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="mailto:preritnagpal1234@gmail.com">
-  ✉️ Email
-</a>
+<a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+  ·   <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+  ·   <a href="mailto:preritnagpal1234@gmail.com">Email</a>
 
 <br/><br/>
 
-⭐ **If you like my work, consider starring a repository!**
+<sub>Made with ☕ and way too much curiosity.</sub>
 
 </div>
