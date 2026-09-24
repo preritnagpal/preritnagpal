@@ -14,11 +14,11 @@
 
 <br/>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://prerit-1906.vercel.app/">
   <img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 &nbsp;
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/preritnagpal">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
@@ -111,8 +111,8 @@ Production-ready development
 
 <br/>
 
-<a href="YOUR_PORTFOLIO_URL">Portfolio</a>
-  ·   <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+<a href="https://prerit-1906.vercel.app/">Portfolio</a>
+  ·   <a href="https://www.linkedin.com/in/preritnagpal">LinkedIn</a>
   ·   <a href="mailto:preritnagpal1234@gmail.com">Email</a>
 
 <br/><br/>
