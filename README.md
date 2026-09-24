@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.png" width="100%" />
+<img src="https://www.canva.com/design/DAHEZ5yPsVg/JUemzFoSxz53dH1YS-YM3w/view" width="100%" />
 
 <br/>
 
